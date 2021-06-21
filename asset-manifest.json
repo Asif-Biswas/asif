@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Asif/static/css/main.f22b6827.chunk.css",
+    "main.js": "/Asif/static/js/main.400b7167.chunk.js",
+    "main.js.map": "/Asif/static/js/main.400b7167.chunk.js.map",
+    "runtime-main.js": "/Asif/static/js/runtime-main.53e11f9f.js",
+    "runtime-main.js.map": "/Asif/static/js/runtime-main.53e11f9f.js.map",
+    "static/js/2.10e97ed8.chunk.js": "/Asif/static/js/2.10e97ed8.chunk.js",
+    "static/js/2.10e97ed8.chunk.js.map": "/Asif/static/js/2.10e97ed8.chunk.js.map",
+    "static/js/3.db460577.chunk.js": "/Asif/static/js/3.db460577.chunk.js",
+    "static/js/3.db460577.chunk.js.map": "/Asif/static/js/3.db460577.chunk.js.map",
+    "index.html": "/Asif/index.html",
+    "static/css/main.f22b6827.chunk.css.map": "/Asif/static/css/main.f22b6827.chunk.css.map",
+    "static/js/2.10e97ed8.chunk.js.LICENSE.txt": "/Asif/static/js/2.10e97ed8.chunk.js.LICENSE.txt",
+    "static/media/asif4.9b5ac731.png": "/Asif/static/media/asif4.9b5ac731.png",
+    "static/media/fb.c30f10eb.jpg": "/Asif/static/media/fb.c30f10eb.jpg",
+    "static/media/fbh.ce2cf9c0.jpg": "/Asif/static/media/fbh.ce2cf9c0.jpg",
+    "static/media/orangered.82cd67b5.jpg": "/Asif/static/media/orangered.82cd67b5.jpg",
+    "static/media/yth.4a44ce57.jpg": "/Asif/static/media/yth.4a44ce57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53e11f9f.js",
+    "static/js/2.10e97ed8.chunk.js",
+    "static/css/main.f22b6827.chunk.css",
+    "static/js/main.400b7167.chunk.js"
+  ]
+}
