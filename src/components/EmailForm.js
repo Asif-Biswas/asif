@@ -32,7 +32,7 @@ class EmailForm extends Component {
                 <textarea onChange={this.inputBody} placeholder="Type your message here...." className='email-form' style={{width:'100%', height:'140px', paddingLeft:'8px', fontSize:'24px', color:'white'}} required></textarea>
                 <br/><br/>
                 
-                <a onClick={this.sendMail} href={this.state.href} style={{textDecoration:'none'}}><button style={{width:'100%'}} className='button light-blue round'>Send Message</button></a>
+                <a onClick={this.sendMail} href={this.state.href} style={{textDecoration:'none'}}><button style={{width:'100%', fontSize:'22px'}} className='button light-blue round'>Send Message</button></a>
             </div>
         );
     }

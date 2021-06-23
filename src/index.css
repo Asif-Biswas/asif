@@ -12,6 +12,8 @@ code {
     monospace;
 }
 
+.fontFamily{font-family: 'Times New Roman', Times, serif;}
+
 @media (max-width: 400px) {.font{font-size: 18px;}.fixnavbarwidth{width: 50%;}}
 @media (min-width: 401px) and (max-width: 800px) {.font{font-size: 22px;}.fixnavbarwidth{width: 50%;}}
 @media (min-width: 801px) {.font{font-size: 28px;}.fixnavbarwidth{width: 80%;}.service-container{display: flex; justify-content: space-around;}.service-container>div{margin: 16px; width: 100%;}}
@@ -80,13 +82,13 @@ code {
 }
 
 .email-form{
-  background-color: rgb(93, 112, 126);
+  background-color: rgb(43, 54, 61);
   border: lightblue solid 4px;
   border-radius: 10px;
 }
 .email-form::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: lightblue;
-  opacity: 1; /* Firefox */
+  opacity: .8; /* Firefox */
 }
 .email-form:-ms-input-placeholder { /* Internet Explorer 10-11 */
   color: lightblue;

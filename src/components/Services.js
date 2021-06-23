@@ -21,7 +21,7 @@ class Services extends Component {
                             <IoLogoJavascript style={{fontSize:'25px', marginBottom:'-4px',marginLeft:'7px'}}/> Javascript and 
                             <FaCss3Alt style={{fontSize:'25px', marginBottom:'-4px',marginLeft:'7px'}}/> CSS3
                         </h4>
-                        <p style={{fontSize:'18px', textAlign:'justify', padding:'8px 16px', color:'rgb(0,125,255)'}}>
+                        <p style={{fontSize:'18px', textAlign:'justify', padding:'8px 16px', color:'rgb(0,155,255)'}}>
                             Every website should be built with two primary goals: Firstly, it needs to work across all devices. Secondly, it needs to be user friendly. Using Javascript, Reactjs and CSS I build Fast, Interactive, Responsive and User friendly websites. 
                         </p>
                     </div>
@@ -36,7 +36,7 @@ class Services extends Component {
                             <FaPython style={{fontSize:'25px', marginBottom:'-4px'}}/> Python and
                             <SiDjango style={{fontSize:'25px', marginBottom:'-4px', marginLeft:'7px'}}/> Django 
                         </h4>
-                        <p style={{fontSize:'18px', textAlign:'justify', padding:'8px 16px', color:'rgb(0,125,255)'}}>Personally I love to write code for Backend. Because, it takes less time to develop than frontend. Using django-rest-framework, I can also create RESTful API. </p>
+                        <p style={{fontSize:'18px', textAlign:'justify', padding:'8px 16px', color:'rgb(0,155,255)'}}>Personally I love to write code for Backend. Because, it takes less time to develop than frontend. Using django-rest-framework, I can also create RESTful API. </p>
                     </div>
                 </div>
             </div>

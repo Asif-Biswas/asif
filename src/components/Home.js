@@ -18,8 +18,8 @@ class Home extends Component {
                     
                     <br/>
                     <div style={{margin:'0 36px'}}><hr/></div>
-                    <div className='project-margin' style={{padding:'64px 0'}}>
-                        <h2 className=''><span className='border-blue padding text-blue' style={{borderBottom:'5px solid', fontSize:'min(7vw,40px)', fontWeight:'bold'}}>My Services</span></h2>
+                    <div className='project-margin' style={{padding:'50px 0'}}>
+                        <h2 className=''><span className='border-blue padding text-blue' style={{borderBottom:'5px solid', fontSize:'min(8vw,40px)', fontWeight:'bold'}}>My Services</span></h2>
                         <br/>
 
                         <Services/>
