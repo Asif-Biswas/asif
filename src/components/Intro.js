@@ -17,7 +17,7 @@ class Intro extends Component {
                                 <h3><span className='font-family-my-name' style={{fontSize:'min(6vw,50px)'}}>Hi, I'm Asif.</span></h3>
                                 
                                 
-                                <h3 className='fontFamily' style={{fontSize:'min(3.5vw,24px)', textAlign:'justify'}}>I am a Full Stack Web Developer. I believe, if you can imagine something for the web, then I can make that real.</h3>
+                                <h3 className='fontFamily' style={{fontSize:'min(3.7vw,26px)', textAlign:'justify'}}>I believe, if you can imagine something for the web, then I can make that real.</h3>
                             </div>
                         </div>
                     </div>

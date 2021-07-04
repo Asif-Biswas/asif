@@ -25,7 +25,7 @@ class EmailForm extends Component {
             <div className='padding'>
                 <input type='text' placeholder='Your Name' className='email-form' style={{width:'100%', height:'50px', paddingLeft:'8px', color:'white', fontSize:'24px'}}/>
                 <br/><br/>
-                <input type='email' placeholder='Your Email Address' className='email-form' style={{width:'100%', height:'50px', paddingLeft:'8px', fontSize:'24px', color:'white'}}/>
+                <input type='email' placeholder='Email Address' className='email-form' style={{width:'100%', height:'50px', paddingLeft:'8px', fontSize:'24px', color:'white'}}/>
                 <br/><br/>
                 <input onChange={this.inputSubject} type='text' placeholder='Subject' className='email-form' style={{width:'100%', height:'50px', paddingLeft:'8px', fontSize:'24px', color:'white'}}/>
                 <br/><br/>

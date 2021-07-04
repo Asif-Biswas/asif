@@ -9,7 +9,7 @@ class Projects extends Component {
             <div style={{marginTop:'-80px', width:'100vw', backgroundColor:'white'}}>
                 <br/>
                 <h2 className='project-margin'><span style={{fontSize:'min(7vw,36px)', borderBottom:'4px double', fontWeight:'bold'}} className='padding text-blue border-blue'>My Projects</span></h2>
-                <p className='border-left border-blue project-margin opacity padding'>Note: If you visit any site, it may take 10 second to open.</p>
+                <p className='border-left border-blue project-margin opacity padding'>Note: If you visit any site, it may take 10 seconds to open.</p>
                 <AllProjects/>
                 <br/>
                 <br/>

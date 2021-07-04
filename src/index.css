@@ -83,7 +83,7 @@ code {
 
 .email-form{
   background-color: rgb(43, 54, 61);
-  border: lightblue solid 4px;
+  border: lightblue solid 3px;
   border-radius: 10px;
 }
 .email-form::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
