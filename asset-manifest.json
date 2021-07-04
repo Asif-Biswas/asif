@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Asif/static/css/main.9a577ef8.chunk.css",
-    "main.js": "/Asif/static/js/main.740f6501.chunk.js",
-    "main.js.map": "/Asif/static/js/main.740f6501.chunk.js.map",
+    "main.css": "/Asif/static/css/main.2eec5d85.chunk.css",
+    "main.js": "/Asif/static/js/main.af17fff3.chunk.js",
+    "main.js.map": "/Asif/static/js/main.af17fff3.chunk.js.map",
     "runtime-main.js": "/Asif/static/js/runtime-main.53e11f9f.js",
     "runtime-main.js.map": "/Asif/static/js/runtime-main.53e11f9f.js.map",
     "static/js/2.773fae87.chunk.js": "/Asif/static/js/2.773fae87.chunk.js",
@@ -10,9 +10,10 @@
     "static/js/3.db460577.chunk.js": "/Asif/static/js/3.db460577.chunk.js",
     "static/js/3.db460577.chunk.js.map": "/Asif/static/js/3.db460577.chunk.js.map",
     "index.html": "/Asif/index.html",
-    "static/css/main.9a577ef8.chunk.css.map": "/Asif/static/css/main.9a577ef8.chunk.css.map",
+    "static/css/main.2eec5d85.chunk.css.map": "/Asif/static/css/main.2eec5d85.chunk.css.map",
     "static/js/2.773fae87.chunk.js.LICENSE.txt": "/Asif/static/js/2.773fae87.chunk.js.LICENSE.txt",
     "static/media/asif4.9b5ac731.png": "/Asif/static/media/asif4.9b5ac731.png",
+    "static/media/bbcp.a4302bdf.jpg": "/Asif/static/media/bbcp.a4302bdf.jpg",
     "static/media/fb.c30f10eb.jpg": "/Asif/static/media/fb.c30f10eb.jpg",
     "static/media/fbh.ce2cf9c0.jpg": "/Asif/static/media/fbh.ce2cf9c0.jpg",
     "static/media/orangered.82cd67b5.jpg": "/Asif/static/media/orangered.82cd67b5.jpg",
@@ -21,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.53e11f9f.js",
     "static/js/2.773fae87.chunk.js",
-    "static/css/main.9a577ef8.chunk.css",
-    "static/js/main.740f6501.chunk.js"
+    "static/css/main.2eec5d85.chunk.css",
+    "static/js/main.af17fff3.chunk.js"
   ]
 }
