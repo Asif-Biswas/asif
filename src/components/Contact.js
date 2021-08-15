@@ -94,7 +94,7 @@ class Contact extends Component {
                         <a href="https://github.com/Asif-Biswas" target="_blank" rel="noreferrer">
                             <FaGithub className='hover-text-grey' style={{fontSize:'min(10vw, 64px)', color:'rgb(19, 119, 233)'}}/>
                         </a>
-                        <a href="">
+                        <a href="#">
                             <FaFacebook className='hover-text-grey' style={{fontSize:'min(10vw, 64px)', color:'rgb(19, 119, 233)'}}/>
                         </a>
                         <a href="https://www.instagram.com/asif.biswas/" target="_blank" rel="noreferrer">
@@ -104,7 +104,7 @@ class Contact extends Component {
                         <a href="https://www.linkedin.com/in/asif-biswas-8131431ab/" target="_blank" rel="noreferrer">
                             <FaLinkedin className='hover-text-grey' style={{fontSize:'min(10vw, 64px)', color:'rgb(19, 119, 233)'}}/>
                         </a>
-                        <a href="">
+                        <a href="#">
                             <FaTwitter className='hover-text-grey' style={{fontSize:'min(10vw, 64px)', color:'rgb(19, 119, 233)'}}/>
                         </a>
                     </div>

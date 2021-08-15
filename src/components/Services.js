@@ -9,7 +9,7 @@ class Services extends Component {
         return (
             <div>
                 <div className='service-container'>
-                    <br/>
+                    
                     <div className='card-2' style={{textAlign:'center', backgroundColor:'rgb(245, 245, 245)', padding:'36px 0', borderTop:'rgb(0, 183, 255) solid 7px', borderRadius:'10px'}}>
                         <FaCode
                             style={{fontSize:'84px', margin:'8px', color:'rgb(0, 145, 255)'}}

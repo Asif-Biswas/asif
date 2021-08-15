@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 //import fbh from '../images/fbh.jpg';
 import fb from '../images/fb.jpg';
-import yth from '../images/yth.jpg';
+import ig from '../images/ig.jpg';
 import orangered from '../images/orangered.jpg';
 
 class FeaturedProject extends Component {
@@ -12,14 +12,12 @@ class FeaturedProject extends Component {
                 <br/><br/>
                 <div className='project-item' style={{position:'relative'}}>
                     <div style={{}}>
-                        <img style={{}} src={fb} alt='fbd' width='100%'/>
+                        <img style={{}} src={fb} alt='facebook_clone' width='100%'/>
                     </div>
                     <div className='item-details-l' style={{textAlign:'center'}}>
                         <br/>
                         <h3 style={{fontSize:'min(7vw,36px)', fontWeight:'bold', color:'rgb(0,120,255)'}}><span>Facebook clone</span></h3>
-                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>In this project, I've used <b>Django </b>(django-rest-framework) for back-end and <b>Reactjs</b> for front-end. Here, you can do almost all the common things of Facebook.
-                         Like, You can <b>Post</b>, <b>Like</b>, <b>Comment</b>, <b>Accept/Delete/Add friend request</b>, <b>Create Group</b>, <b>send/receive Messages</b>, <b>get Notification</b>, <b>Search</b>, <b>Change Name/Password</b>,
-                          <b> Login/Logout</b>, etc. Visit the site now (use (username: elon, Password: elon1234), if you don't want to create an account😎)</p>
+                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>It was very hard to develop this full-stack project. I've used <b>Django (drf)</b> and <b>Reactjs</b> together to build this. Here you'll get all the basic features of Facebook. Almost every topic of Django and Reactjs are needed to complete this project.</p>
                         <br/>
                         <div style={{display:'flex', justifyContent:'center'}}>
                             <a style={{textDecoration:'none'}} href="https://github.com/Asif-Biswas/facebook-clone-backend" rel="noreferrer" title="https://github.com/Asif-Biswas/facebook-clone-backend" target="_blank"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Github</span></a>
@@ -32,17 +30,17 @@ class FeaturedProject extends Component {
                 <br/>
                 <div className='project-item2'>
                     <div style={{float:'right'}}>
-                        <img style={{}} src={yth} alt='yth' width='100%'/>
+                        <img style={{}} src={ig} alt='instagram' width='100%'/>
                     </div>
 
                     <div className='item-details-r' style={{textAlign:'center'}}>
                         <br/>
-                        <h3 style={{fontSize:'min(7vw,36px)', fontWeight:'bold', color:'rgb(0,120,255)'}}><span>Youtube clone</span></h3>
-                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>Here, <b>Django</b> is used for Backend and HTML, CSS and <b>Javascript</b> is used for front-end design. Seeing my own design, I was surprised. Nothing to say anymore. Please, Visit the site and see what I've made.</p>
+                        <h3 style={{fontSize:'min(7vw,36px)', fontWeight:'bold', color:'rgb(0,120,255)'}}><span>Instagram clone</span></h3>
+                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>Don't think that I've taken a screenshot from the real Instagram website. It's an Instagram clone. Yes, done by me. All the basic features of IG, you'll get here.<br/>Language/Framework used: <b>Django, Javascript </b>and<b> CSS.</b></p>
                         <br/>
                         <div style={{display:'flex', justifyContent:'center', paddingBottom:'8px'}}>
-                            <a style={{textDecoration:'none'}} href="https://github.com/Asif-Biswas/youtube-clone" rel="noreferrer" title="https://github.com/Asif-Biswas/youtube-clone" target="_blank"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Github</span></a>
-                            <a style={{textDecoration:'none'}} href="https://youtube-cln.herokuapp.com" target="_blank" title="youtube-cln.herokuapp.com" rel="noreferrer"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Visit site</span></a>
+                            <a style={{textDecoration:'none'}} href="https://github.com/Asif-Biswas/instagram-clone" rel="noreferrer" title="https://github.com/Asif-Biswas/instagram-clone" target="_blank"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Github</span></a>
+                            <a style={{textDecoration:'none'}} href="http://asifbiswas.pythonanywhere.com" target="_blank" title="http://asifbiswas.pythonanywhere.com" rel="noreferrer"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Visit site</span></a>
                         </div>
                     </div>
                 </div>
@@ -56,8 +54,8 @@ class FeaturedProject extends Component {
                     </div>
                     <div className='item-details-l' style={{textAlign:'center'}}>
                         <br/>
-                        <h3 style={{fontSize:'min(7vw,36px)', fontWeight:'bold', color:'rgb(0,120,255)'}}><span>OrangeRed (e-commerce)</span></h3>
-                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>I believe, the design of this project is not bad. But, to be honest, this project is not perfect. There are some bug🤭  and I need minimum 10 hours to fix them🧐. But the main question is, will you find the bug? Visit the site now and buy some product for free🤑.</p>
+                        <h3 style={{fontSize:'min(7vw,36px)', fontWeight:'bold', color:'rgb(0,120,255)'}}><span>OrangeRed (E-commerce)</span></h3>
+                        <p className='' style={{textAlign:'justify', color:'rgb(0,110,255)'}}>Fully responsive, greate colour combination, well designed, full-stack E-commerce web app built with <b>Django (drf)</b>, <b>ReactJs</b>, <b>Redux</b> and CSS.</p>
                         <br/>
                         <div style={{display:'flex', justifyContent:'center'}}>
                             <a style={{textDecoration:'none'}} href="https://github.com/Asif-Biswas/orangered-e-commerce-frontend" rel="noreferrer" title="https://github.com/Asif-Biswas/orangered-e-commerce-frontend" target="_blank"><span style={{borderRadius:'50px', padding:'16px 36px', minWidth:'140px', textAlign:'center', color:'rgb(0,140,255)'}} className='margin border border-blue hover-blue hover-shadow pointer'>Github</span></a>

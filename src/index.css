@@ -1,3 +1,9 @@
+
+
+
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -101,9 +107,9 @@ code {
 
 .skill-background{background-image: linear-gradient(to right, rgb(29, 37, 156), rgb(50, 50, 130));}
 
-@media (max-width:600px){.about-margin{margin: 16px;}.project-margin{margin: 16px;}.contact{margin: -64px 16px 0 16px;}.social{padding-top:36px;}}
-@media (max-width:992px) and (min-width:601px){.about-margin{margin: 16px 36px;}.project-margin{margin: 16px;}.work-together{padding-left: 36px;}.contact{margin: -36px 36px 0 64px;}.social{padding-top:36px;}}
-@media (min-width:993px){.about-margin{margin: 16px 15%;}.project-margin{margin: 16px 8%;}.work-together{padding-left: 64px;}.contact{margin: -36px 16px 0 120px; display: flex;}.contact > div{width: 50%;}.social{padding:100px 0 0 50px;}}
+@media (max-width:600px){.about-margin{margin: 16px;}.project-margin{margin: 16px;}.contact{margin: -64px 16px 0 16px;}.social{padding-top:36px;}.progress-bar-padding{padding: 5px;} .progress-bar-fontsize{font-size: 12px;}.intro-margin-top{margin-top: 44px;}}
+@media (max-width:992px) and (min-width:601px){.about-margin{margin: 16px 36px;}.project-margin{margin: 16px;}.work-together{padding-left: 36px;}.contact{margin: -36px 36px 0 64px;}.social{padding-top:36px;}.progress-bar-padding{padding: 9px;} .progress-bar-fontsize{font-size: 15px;}.intro-margin-top{margin-top: 54px;}}
+@media (min-width:993px){.about-margin{margin: 16px 15%;}.project-margin{margin: 16px 8%;}.work-together{padding-left: 64px;}.contact{margin: -36px 16px 0 120px; display: flex;}.contact > div{width: 50%;}.social{padding:100px 0 0 50px;}.progress-bar-padding{padding: 12px;} .progress-bar-fontsize{font-size: 16px;}.intro-margin-top{margin-top: 64px;}}
 
 @media (min-width:820px){.project-item{display: flex;}.project-item > div{width: 50%;}.item-details-l{margin-left: 5%;}.item-details-r{margin-right: 5%;}
   .project-item2 > div{width: 50%;}.project-item2{display: flex; flex-direction: row-reverse;}
@@ -371,3 +377,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .border-dark-grey,.hover-border-dark-grey:hover,.border-dark-gray,.hover-border-dark-gray:hover{border-color:#616161!important}
 .border-pale-red,.hover-border-pale-red:hover{border-color:#ffe7e7!important}.border-pale-green,.hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .border-pale-yellow,.hover-border-pale-yellow:hover{border-color:#ffffcc!important}.border-pale-blue,.hover-border-pale-blue:hover{border-color:#e7ffff!important}
+
+
+
+
+
+
+

@@ -33,19 +33,19 @@ class About extends Component {
                     </div>
                 </div>
 
-                <div style={{paddingBottom:'100px'}} className='about-margin'>
+                <div style={{paddingBottom:'40px'}} className='about-margin'>
                     <div>
-                        <h1 style={{fontFamily:'revert', fontWeight:'bold', color:'rgb(0,130,255)'}}><FcAbout style={{marginBottom:'-6px', color:'rgb(0,130,255)'}} /> Who I Am</h1>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>My name is <b>Asif Biswas</b>. I'm a full-stack web developer from Dhaka, Bangladesh.</h3>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>I enjoy creating things that live on the internet. Programming and problem solving is my most favourite.</h3>
+                        <h1 style={{fontFamily:'revert', fontWeight:'bold', color:'rgb(0,130,255)', fontSize:'min(6vw, 36px)'}}><FcAbout style={{marginBottom:'-6px', color:'rgb(0,130,255)'}} /> Who I Am</h1>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}>My name is <b>Asif Biswas</b>. I'm a full-stack web developer from Dhaka, Bangladesh.</p>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}>I enjoy creating things that live on the internet. Programming and problem solving is my most favourite.</p>
                         <br/>
-                        <h1 style={{ fontWeight:'bold', color:'rgb(0,130,255)'}}><FaBook style={{marginBottom:'-6px', color:'rgb(0,130,255)'}} /> Education</h1>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>I'm a self-taught web developer. Almost everything about programming or coding, I've learned from the internet.</h3>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>I'm doing B.Sc (honours) in Mathematics in a traditional college named Kabi Nazrul Govt. College (affiliated to University of Dhaka).</h3>
+                        <h1 style={{ fontWeight:'bold', color:'rgb(0,130,255)', fontSize:'min(6vw, 36px)'}}><FaBook style={{marginBottom:'-6px', color:'rgb(0,130,255)'}} /> Education</h1>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}>I'm a self-taught web developer. Almost everything about programming or coding, I've learned from the internet.</p>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}>I'm doing B.Sc (honours) in Mathematics.</p>{/** in a traditional college named Kabi Nazrul Govt. College (affiliated to University of Dhaka). */}
                         <br/>
-                        <h1 style={{fontFamily:'revert', fontWeight:'bold', color:'rgb(0,130,255)'}}><FaHandshake style={{marginBottom:'-6px', color:'rgb(0,130,255)', fontSize:'36px'}} /> Why Work With Me</h1>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>First of all, if you are looking for a Django/Reactjs developer, then hiring me, can be a great decision for you. Because I know, how to code. As you can see in my Facebook clone project, almost every topic about django and react was covered.</h3>
-                        <h3 className='fontFamily' style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', textAlign:'justify'}}>I always try to be responsible for my work.</h3>
+                        <h1 style={{fontFamily:'revert', fontWeight:'bold', color:'rgb(0,130,255)', fontSize:'min(6vw, 36px)'}}><FaHandshake style={{marginBottom:'-6px', color:'rgb(0,130,255)', fontSize:'36px'}} /> Why Work With Me</h1>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}>After completing many projects and a lot of practice, now I'm fully confident that I can make any type of website.</p>
+                        <p style={{paddingLeft:'24px', color:'rgb(0,100,155)', maxWidth:'700px', fontSize:'min(4vw, 26px)'}}></p>
                     </div>
                 </div>
                 <div className='project-margin'>

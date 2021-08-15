@@ -4,6 +4,7 @@ import FeaturedProject from './FeaturedProject';
 import Footer from './Footer';
 import Intro from './Intro';
 import Services from './Services';
+import Skills from './Skills';
 //import Skills from './Skills';
 
 class Home extends Component {
@@ -18,13 +19,17 @@ class Home extends Component {
                     
                     <br/>
                     <div style={{margin:'0 36px'}}><hr/></div>
-                    <div className='project-margin' style={{padding:'50px 0'}}>
+                    <div className='project-margin' style={{padding:'30px 0'}}>
                         <h2 className=''><span className='border-blue padding text-blue' style={{borderBottom:'5px solid', fontSize:'min(8vw,40px)', fontWeight:'bold'}}>My Services</span></h2>
                         <br/>
 
                         <Services/>
                     </div>
                 </div>
+
+                <br/>
+                <Skills/>
+                <br/>
                 
                 <div className='' style={{position:'relative'}}>
                     <div style={{backgroundColor:'black', transform:'rotate(5deg)', width:'120vw', height:'400px', marginLeft:'-36px'}}>
